@@ -1,0 +1,12 @@
+Modular: Dividir un sitema y así crear módulos independientes, lo que permite evitar un colapso masivo en nuestro código y mejorar la legibilidad.
+-----------------------
+
+
+Modular: Dividir un sistema y así crear módulos independientes, lo que permite evitar un colapso masivo en nuestro código y mejorar la legibilidad.
+
+La modularidad nos permite:
+Reutilizar código
+Evitar Colapsos
+Mantenible
+Legibilidad
+Resolución Rápida de Problemas
