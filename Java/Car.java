@@ -4,8 +4,8 @@ public class Car {
     Account driver;
     Integer passenger;
 
-    public Car(String licence, Account driver){
-        this.license = licence;
+    public Car(String license, Account driver){
+        this.license = license;
         this.driver = driver;
     }
     void printDataCar() {
