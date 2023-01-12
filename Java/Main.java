@@ -9,5 +9,11 @@ class Main {
         car2.passenger = 3;
         System.out.println("Car 2 Licence: " + car2. license);
         car2.printDataCar();
+        System.out.println("initialize");
+        System.out.println("Car...");
+
+        System.out.println("Uberx....");
+        UberX uberx = new UberX("AND001", new Account("Maria Loyola", "AND002"), "Haojue", "150");
+        uberx.printDataCar();
     }
 }
