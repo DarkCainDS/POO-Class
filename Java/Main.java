@@ -15,5 +15,7 @@ class Main {
         System.out.println("Uberx....");
         UberX uberx = new UberX("AND001", new Account("Maria Loyola", "AND002"), "Haojue", "150");
         uberx.printDataCar();
+        uberx.setPassenger(3);
+        System.out.println(uberx.brand + " " + uberx.model);
     }
 }
